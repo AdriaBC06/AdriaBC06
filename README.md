@@ -2,7 +2,8 @@
 
 - 🎓 Student in Application Development
 - 🤓 Learning C++
-- 💻 Skilled in Java, HTML, CSS and JavaScript, C# and Python
+- 💻 Skilled in Java, HTML, CSS, JavaScript, TypeScript, C# and Python
+- 📊 Working in TypeScript/OfficeScript (Excel) at the moment
 - 🚀 Always eager to tackle new challenges and improve my skills
 
 Feel free to explore my repositories and get in touch!
